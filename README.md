@@ -1,4 +1,4 @@
-# Bingo generator
+# SMSU line OA webhook template
 
 SMSU line OA webhook source code by natpatchra pongjirapat
 
